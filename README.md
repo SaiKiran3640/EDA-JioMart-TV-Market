@@ -38,6 +38,7 @@ JioMart_TVs_Project/
 ### 🔸 TV Sales by Category
 ![TV Sales by Category](plots/tv_sales_by_category.png)
 
+🔗 [Notebook: Data_visualization_jio_tvs.ipynb](Data_cleaning_viz/Data_viz_jio_tvs.ipynb)
 
 
 ## 📌 Key Insights
