@@ -35,16 +35,10 @@ JioMart_TVs_Project/
 
 ## 📊 Sample Visuals
 
-### 🔸 Market Share Pie
-![Market Share Pie](plots/Market_Share_Pie_Top_10_Brands.png)
-
 ### 🔸 TV Sales by Category
 ![TV Sales by Category](plots/tv_sales_by_category.png)
 
-### 🔸 Resolution Distribution
-![Resolution Types](plots/Resolution_Types.png)
 
----
 
 ## 📌 Key Insights
 - 📺 **4K TVs** dominate premium price segments; 65" 4K drives the highest revenue.
